@@ -1,0 +1,41 @@
+body, html{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image:linear-gradient(rgba(16, 206, 212, 0.76), rgb(21, 204, 113)), url('img/programacion1.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #ffff ;
+
+}
+
+.logo{
+    height: 150px;
+    margin-top: 20px;
+}
+
+.text-description{
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    
+}
+
+.form-control{
+    background: transparent !important;
+    color: white;
+    
+}
+
+a .fab{
+    color: rgb(192, 17, 17);
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.Image{
+    flex-wrap: wrap;
+    -webkit-box-flex-group: inherit;
+    
+}
